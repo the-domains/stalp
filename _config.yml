@@ -6,9 +6,9 @@ color:
   saturation: 0.1777253127656877
   rhythmicContrast: 0.35517097590491176
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: stalp
